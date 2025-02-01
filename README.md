@@ -90,9 +90,9 @@ Welcome to my **Personal Growth Challenge 2024** repository. This is where I bui
 ---
 
 ## 🤝 **Connect with Me**
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [@YourHandle](#)
-- **GitHub:** [Your GitHub Profile](#)
+- **LinkedIn:** [Martin Manriquez Leon](https://www.linkedin.com/in/martin-manriquez/)
+- **Twitter:** [@HolaSoyMalva](https://x.com/holasoymalva)
+- **GitHub:** [HolaSoyMalva](https://github.com/holasoymalva)
 
 ---
 
