@@ -1,4 +1,4 @@
-# 🚀 Build in public 2025
+# 🚀 [Build in public 2025](https://bfrhlk9eo5waf4odr.lite.vusercontent.net/)
 
 Welcome to my **Personal Growth Challenge 2025** repository. This is where I build my journey in public, tracking progress, sharing lessons learned, and staying accountable. My mission is to evolve as a **Software Developer**, **Visual Artist**, **Writer**, and **Language Learner** while venturing into the solopreneur world, launching products, and growing my personal brand.
 
